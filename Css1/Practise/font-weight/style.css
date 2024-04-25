@@ -1,0 +1,14 @@
+h1{
+    font-weight:normal;
+}
+p{
+    font-weight: 900; /*can lie b/w 100 to 900*/
+}
+
+h2{
+    font-weight: 400;
+}
+
+div{
+    font-weight: bold;
+}
