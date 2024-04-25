@@ -1,0 +1,16 @@
+h1{
+    text-decoration:yellow underline ;
+}
+h2{
+    text-decoration: overline double;
+}
+h3{
+    text-decoration: red line-through dotted;
+}
+h4{
+    text-decoration:blue overline dashed;
+}
+a{
+    text-decoration: none; 
+    /* removing underline from anchor tag */
+}
