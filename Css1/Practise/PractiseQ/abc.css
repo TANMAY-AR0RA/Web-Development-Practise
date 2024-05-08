@@ -10,8 +10,8 @@ p{
 }
 h1{
     text-align: center;
-    text-decoration: underline;
 }
+
 h3{
     text-align: center;
     color: #000;
@@ -25,4 +25,11 @@ a{
 }
 textarea{
     color: black;
+}
+button{
+    background-color: white;
+    color: blueviolet;
+}
+span{
+    text-decoration: underline;
 }
