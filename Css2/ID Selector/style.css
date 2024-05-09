@@ -1,0 +1,14 @@
+#login{
+    background-color: white;
+}/*Using id Selector
+   Id is unique for each element
+*/
+
+#signup{
+    background-color: #b92b27;
+    color: yellowgreen;
+}
+
+h1, h3{
+    color: #b92b27;
+} /*using multiple element selectors at once*/
