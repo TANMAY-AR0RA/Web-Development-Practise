@@ -2,6 +2,9 @@
 p + h3{
     text-decoration: underline;
 }
+.upvote + button{
+background-color: cornflowerblue;
+}
 
 /* Descendant Selector */
 nav ul li a{
@@ -16,8 +19,11 @@ nav ul li a{
 /*Using Class Selector
    Class can be same for multiple elements
 */
+.upvote{
+background-color: green;
+}
+
 .answer{
-    background-color: yellow;
     color: red;
 }/*All answer buttons with class as answer were changed  */
 
