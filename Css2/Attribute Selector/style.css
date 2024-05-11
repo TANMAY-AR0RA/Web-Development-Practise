@@ -1,0 +1,57 @@
+/* Attribut Selector */
+input[type="text"]{
+color: green;
+}
+
+input[type="password"]{
+color: red;
+}
+
+/* Child Combinator Selector */
+div > input{
+    background-color: #000;
+}
+
+/* Adjacent Sibling Combinator*/
+p + h3{
+    text-decoration: underline;
+}
+.upvote + button{
+background-color: cornflowerblue;
+}
+
+/* Descendant Selector */
+nav ul li a{
+    color: hotpink;
+} /* 4 levels in html tags  */
+.post a{
+    color: #000;
+    background-color:greenyellow;
+}
+
+
+/*Using Class Selector
+   Class can be same for multiple elements
+*/
+.upvote{
+background-color: green;
+}
+
+.answer{
+    color: red;
+}/*All answer buttons with class as answer were changed  */
+
+#login{
+    background-color: white;
+}/*Using id Selector
+   Id is unique for each element
+*/
+
+#signup{
+    background-color: #b92b27;
+    color: yellowgreen;
+}
+
+h1, h3{
+    color: #b92b27;
+} /*using multiple element selectors at once*/
