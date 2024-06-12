@@ -1,5 +1,5 @@
 <h1>Building my hands-on experience with full-stack web development.</h1>
-This repository is a collection of practice projects designed to improve my proficiency in both front-end and back-end web development. Each project focuses on different aspects of web development, from basic HTML and CSS to complex full-stack applications.
+This repository is a collection for practicing tools and technologies to improve my proficiency in both front-end and back-end web development. Each project focuses on different aspects of web development, from basic HTML and CSS to complex full-stack applications.
 <br>
 <h2>Technologies Used </h2>
 The following technologies and tools are used across various projects in this repository:
